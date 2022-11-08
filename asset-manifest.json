@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bryan-wienhoff-portfolio/static/css/main.60d2f04c.css",
+    "main.js": "/bryan-wienhoff-portfolio/static/js/main.5c135f94.js",
+    "static/media/background.jpg": "/bryan-wienhoff-portfolio/static/media/background.7ec874194cf2fb1435bc.jpg",
+    "index.html": "/bryan-wienhoff-portfolio/index.html",
+    "main.60d2f04c.css.map": "/bryan-wienhoff-portfolio/static/css/main.60d2f04c.css.map",
+    "main.5c135f94.js.map": "/bryan-wienhoff-portfolio/static/js/main.5c135f94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60d2f04c.css",
+    "static/js/main.5c135f94.js"
+  ]
+}
